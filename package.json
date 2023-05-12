@@ -1,0 +1,14 @@
+{
+  "name": "sasa8784-tracker",
+  "version": "0.0.1",
+  "description": "tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sjasace",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
