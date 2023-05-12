@@ -11,7 +11,8 @@
   "author": "sjasace",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "sass": "^1.62.1"
   },
   "devDependencies": {
     "parcel": "^2.8.3"
