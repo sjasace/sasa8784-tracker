@@ -16,7 +16,11 @@ It was noted in the feedback from the web app design assessment that the navigat
 I also combined the calendar and the home page on to the main single page architecture, with a scroll to get to the calendar. 
 ![longhomepageview](https://github.com/sjasace/sasa8784-tracker/assets/128760072/57294200-bfbb-4f82-a073-6c1fb55392bf)
 
+As per the feed
+
 **Improvements**
+
+The functionality is definitely what needs to be improved on here, the 
 **Lessons learned **
 
 The main lesson learned here was to make functionality a first priority and to do all of that frist before making it look as desired with the SCSS. I tried to juggle both at the same time and it only hindered my prototype, rendering it without proper functionality. If I had implemented all the moving parts and then styled it, I would have gotten much closer to the desired final product. It was not a lack of skill, but a lack of poor planning that caused me to be left with a shell of a web app. 
@@ -30,3 +34,5 @@ The spacing was well thought out and made sure that every element was as it was 
 **Recommendations for future improvement and extensions**
 
 Within the web app design assessment, it was noted that the file upload feature would be difficult to implement, and yes it very much was. So I put this idea forth for a futher extension of the program, so that users can know their meals by more than the name but by the visual features. 
+
+I a
