@@ -33,6 +33,7 @@ The main lesson learned here was to make functionality a first priority and to d
 
 
 **Best practices**
+
 The best practice here was the home page, which came out, looks wise, exactly as desired, follow on with the minimalist design principle.
 The HTML and SCSS was implemented well here, which meant that I had a clear head of what the final product was deemed to look like. 
 
