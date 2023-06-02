@@ -27,7 +27,7 @@ I work on a basis of developing something of the appearance and then making it w
 The tracker and the popups were to be completed from the get go and fussing about the SCSS later. 
 
 
-**Lessons learned **
+**Lessons learned**
 
 The main lesson learned here was to make functionality a first priority and to do all of that frist before making it look as desired with the SCSS. I tried to juggle both at the same time and it only hindered my prototype, rendering it without proper functionality. If I had implemented all the moving parts and then styled it, I would have gotten much closer to the desired final product. It was not a lack of skill, but a lack of poor planning that caused me to be left with a shell of a web app. 
 
