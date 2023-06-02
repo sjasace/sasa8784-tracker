@@ -31,6 +31,11 @@ The HTML and SCSS was implemented well here, which meant that I had a clear head
 
 The spacing was well thought out and made sure that every element was as it was supposed to be showcased. It allowed the "Last Meal" and "Add New" part to stand on its own as well as leaving room for the calendar (after the scroll down)
 
+What it looked like before the implementation:
+![Uploading Screen Shot 2023-06-02 at 11.27.39 pm.png…]()
+![Uploading Screen Shot 2023-06-02 at 11.27.43 pm.png…]()
+
+
 **Recommendations for future improvement and extensions**
 
 Within the web app design assessment, it was noted that the file upload feature would be difficult to implement, and yes it very much was. So I put this idea forth for a futher extension of the program, so that users can know their meals by more than the name but by the visual features. 
