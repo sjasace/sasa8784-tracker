@@ -2,7 +2,8 @@
 
 **The development process **
 
-The development process began with the purpose and root of why I wanted to do a food related web app. This was rooted in the fact that I wanted to eat healthier and make better meal choices myself, which I know is an issue faced by many. Therefore, I wanted the platform to be something I wasn't just designing for a client but something myself and a range of people could use that actually benefits their lives, and goes beyond the design brief of a 'tracker'. 
+*Motivations*
+  The development process began with the purpose and root of why I wanted to do a food related web app. This was rooted in the fact that I wanted to eat healthier and make better meal choices myself, which I know is an issue faced by many. Therefore, I wanted the platform to be something I wasn't just designing for a client but something myself and a range of people could use that actually benefits their lives, and goes beyond the design brief of a 'tracker'. 
 
 With this motive, I have assumed not only the role of a developer but as a user myself. This meant that I could really understand the scope of what I needed to achieve and what I crucially needed to include. I consciously decided to strip the app to its bare essentials to maximise usability for the user. Keeping it to its essentials meant the hill of usability and the user experience becomes a much more simplfied and logical experience. 
 
@@ -16,7 +17,7 @@ It was noted in the feedback from the web app design assessment that the navigat
 I also combined the calendar and the home page on to the main single page architecture, with a scroll to get to the calendar. 
 ![longhomepageview](https://github.com/sjasace/sasa8784-tracker/assets/128760072/57294200-bfbb-4f82-a073-6c1fb55392bf)
 
-As per the feed
+As per the feedback from web app design assessment, the achievements section was lackluster and lacking purpose, which is critical in forming my minimalist design approach, so prior to making the prototype I made the decision to cull the pop up (see recommendations for plans for future)
 
 **Improvements**
 
