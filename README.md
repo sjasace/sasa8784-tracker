@@ -19,9 +19,13 @@ I also combined the calendar and the home page on to the main single page archit
 **Improvements**
 **Lessons learned **
 
-The main lesson learned here was
+The main lesson learned here was to make functionality a first priority and to do all of that frist before making it look as desired with the SCSS. I tried to juggle both at the same time and it only hindered my prototype, rendering it without proper functionality. If I had implemented all the moving parts and then styled it, I would have gotten much closer to the desired final product. It was not a lack of skill, but a lack of poor planning that caused me to be left with a shell of a web app. 
 
 **Best practices**
+The best practice here was the home page, which came out, looks wise, exactly as desired, follow on with the minimalist design principle.
+The HTML and SCSS was implemented well here, which meant that I had a clear head of what the final product was deemed to look like. 
+
+The spacing was well thought out and made sure that every element was as it was supposed to be showcased. It allowed the "Last Meal" and "Add New" part to stand on its own as well as leaving room for the calendar (after the scroll down)
 
 **Recommendations for future improvement and extensions**
 
