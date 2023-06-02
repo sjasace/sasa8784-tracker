@@ -38,8 +38,9 @@ The HTML and SCSS was implemented well here, which meant that I had a clear head
 The spacing was well thought out and made sure that every element was as it was supposed to be showcased. It allowed the "Last Meal" and "Add New" part to stand on its own as well as leaving room for the calendar (after the scroll down)
 
 What it looked like before the implementation:
-![Uploading Screen Shot 2023-06-02 at 11.27.39 pm.png…]()
-![Uploading Screen Shot 2023-06-02 at 11.27.43 pm.png…]()
+<img width="1512" alt="Screen Shot 2023-06-02 at 11 27 39 pm" src="https://github.com/sjasace/sasa8784-tracker/assets/128760072/0eaaaeb9-8699-4163-aa4b-7cc810d92071">
+
+<img width="1512" alt="Screen Shot 2023-06-02 at 11 27 43 pm" src="https://github.com/sjasace/sasa8784-tracker/assets/128760072/07773008-b7ba-4717-8086-ebd7bcf2f10e">
 
 
 **Recommendations for future improvement and extensions**
