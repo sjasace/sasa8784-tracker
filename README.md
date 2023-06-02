@@ -14,7 +14,8 @@ It was noted in the feedback from the web app design assessment that, as mention
 ![overlay modal](https://github.com/sjasace/sasa8784-tracker/assets/128760072/253fdfdb-ac6b-4c30-8900-b8aa5b6cffe0)
 
 I also combined the calendar and the home page on to the main single page architecture, with a scroll to get to the calendar. 
-![longhomepageview](https://github.com/sjasace/sasa8784-tracker/assets/128760072/57294200-bfbb-4f82-a073-6c1fb55392bf)
+![longpage](https://github.com/sjasace/sasa8784-tracker/assets/128760072/1ff72af4-d10a-4836-babc-2778d78592d9)
+
 
 As per the feedback from web app design assessment, the achievements section was lackluster and lacking purpose, which is critical in forming my minimalist design approach, so prior to making the prototype I made the decision to cull the pop up (see recommendations for plans for future)
 
