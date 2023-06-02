@@ -1,6 +1,6 @@
 # sasa8784-tracker
 
-**The development process **
+**The development process**
 
 The development process began with the purpose and root of why I wanted to do a food related web app. This was rooted in the fact that I wanted to eat healthier and make better meal choices myself, which I know is an issue faced by many. Therefore, I wanted the platform to be something I wasn't just designing for a client but something myself and a range of people could use that actually benefits their lives, and goes beyond the design brief of a 'tracker'. 
 
