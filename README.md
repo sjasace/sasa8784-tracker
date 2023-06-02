@@ -46,6 +46,6 @@ What it looked like before the implementation:
 
 **Recommendations for future improvement and extensions**
 
-Within the web app design assessment, it was noted that the file upload feature would be difficult to implement, and yes it very much was. So I put this idea forth for a futher extension of the program, so that users can know their meals by more than the name but by the visual features. 
+Within the web app design assessment, it was noted that the file upload feature would be difficult to implement, and yes it very much was. So I put this idea forth for a futher extension of the program, so that users can know their meals by more than the name but by the visual features. This will also be a feature that will make the meal history an easier feat to understand and be used by users, as most are visual learners, especially in our digital age. The identification of meals will be a breeze. 
 
 I believe the "achievements" is an element that need to be thoughtout more carefully, but will be instrumental for the extension of this web app. As the premise of having positive reinforcement through achievements is harnessed in the success of the app. Users have short attentions spans, thus, the app being without the positive reinforcements of achievements means that the users will be struck with the mundane, repeated tasks thats give nothing back, therefore, are disgarded. 
